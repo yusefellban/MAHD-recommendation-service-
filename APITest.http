@@ -1,0 +1,2 @@
+### GET request
+GET http://localhost:5006/recommendations/top5
